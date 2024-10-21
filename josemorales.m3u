@@ -187,7 +187,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
 #EXTINF:-1, Canal6 mx
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 
 #EXTINF:-1, Estrella NW mx
 https://estrella-news-oando.amagi.tv/playlist.m3u8
@@ -259,7 +259,7 @@ https://mediacp.us:8081/azatvhd/index.m3u8
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
 #EXTINF:-1, Canal 11 hn GEO
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 #EXTINF:-1, Canal 15 hn
 https://s.emisoras.tv:8081/dtp/index.m3u8
@@ -276,14 +276,14 @@ https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8
 #EXTINF:-1, Dios te ve
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
-#EXTINF:-1, EDNTV hn
-https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1, Unción hn
+https://fl1002.bozztv.com/ssh101/unciontv/index.m3u8
 
 #EXTINF:-1, Girasol hn
 https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 
 #EXTINF:-1, JuntoTV hn
-https://mediacp.us:8081/juncotv/index.m3u8
+https://glb.bozztv.com/glb/ssh101/juncotv/index.m3u8
 
 #EXTINF:-1, TOP sps
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
@@ -304,7 +304,7 @@ https://viewhn.com/telemas/live/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
 #EXTINF:-1, Valle Visión hn
-https://mediacp.us:8081/vallevision/index.m3u8
+https://glb.bozztv.com/glb/ssh101/sulatv/playlist.m3u8
 
 #EXTINF:-1, TV COPAN hn
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
@@ -331,7 +331,7 @@ https://video.ejeserver.com/live/canal8tv.m3u8
 https://plataformavideo.com:19360/8020/8020.m3u8
 
 #EXTINF:-1, RCN-EXTRA co
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8
 
 #EXTINF:-1, Canal 1 cr
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
@@ -358,7 +358,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1, COSMOTV es
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1, Cuatro ES
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
@@ -394,7 +394,7 @@ https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 #EXTINF:-1, F10 HD
-https://video.live.com.bo:3099/live/f10hdlive.m3u8
+https://stmv1.srvif.com/f10tv/f10tv/playlist.m3u8
 
 #EXTINF:-1, FTV
 https://master.tucableip.com/ftv/index.m3u8
