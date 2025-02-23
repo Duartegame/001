@@ -139,19 +139,19 @@ https://example.com/stream/aztecadeportes.m3u8
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MWJmYTA3NGM4NDE2LWMwNmItMTdlNC1lNjc2LWE2Njc0OTRm/master.m3u8
 
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN USA" tvg-logo="https://example.com/tudnusa.png" group-title="Deportes", TUDN USA
-https://example.com/stream/tudnusa.m3u8
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OGU3NmY0YWQ3MWNkLWEwYjktOWE5NC05Y2YzLTI3ZTk3ZmFj/master.m3u8
 
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN MX" tvg-logo="https://example.com/tudnmx.png" group-title="Deportes", TUDN MX
-https://example.com/stream/tudnmx.m3u8
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NzNhOWM5M2Q0NDE3LTY0ZjgtMmQ3NC0yNjkzLTliNjFlNGY5/master.m3u8
 
 #EXTINF:-1 tvg-id="CANAL5MX" tvg-name="CANAL 5 MX" tvg-logo="https://example.com/canal5mx.png" group-title="Entretenimiento", CANAL 5 MX
-https://example.com/stream/canal5mx.m3u8
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MmNiZjNlNGRjMTkzLTEwNTktZjY1NC0wMjk4LTczOTYyNThm/master.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSOUSA" tvg-name="UNIVERSO USA" tvg-logo="https://example.com/universousa.png" group-title="Entretenimiento", UNIVERSO USA
-https://example.com/stream/universousa.m3u8
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTU4ZTY0YjNhY2YxLTFmZGEtNzdlNC0zMzExLWE5MjZlZmNj/master.m3u8
 
 #EXTINF:-1 tvg-id="TELEMUNDOUSA" tvg-name="TELEMUNDO USA" tvg-logo="https://example.com/telemundousa.png" group-title="Entretenimiento", TELEMUNDO USA
-https://example.com/stream/telemundousa.m3u8
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NTE1ODUzMjViNzcxLWRiN2ItOWEzNC0xMjRjLWYxZWRlMjc3/master.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportesUSA" tvg-name="Fox Deportes USA" tvg-logo="https://example.com/foxdeportesusa.png" group-title="Deportes", Fox Deportes USA
 https://example.com/stream/foxdeportesusa.m3u8
