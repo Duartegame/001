@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://espnpressroom.com/mexico/files/2015/10/ESPN_Red-Logo-copy-1024x303.jpg" group-title="Deportes", ESPN
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1YTIxZWZmZDY0YjQ2LTYzMDktZWEwNC03ZmQzLWE2NmNmNDIy/master.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://example.com/espn2.png" group-title="Deportes", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://s3.cine3.com/2020/06/ESPN2.png" group-title="Deportes", ESPN 2
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZWU4ZGQ3YWYyNThjLWY2ODgtZTE1NC0zYjJlLWJhZTA4ODI2/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://example.com/espn3.png" group-title="Deportes", ESPN 3
